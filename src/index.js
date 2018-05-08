@@ -41,7 +41,6 @@ export class ButcherShop extends React.Component {
   }
 };
 
-
 ReactDOM.render(
   <div>
     render your components here! Refer back to the previous README if you are lost
